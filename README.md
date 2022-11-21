@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Output:
+
+![image](https://user-images.githubusercontent.com/40719899/202995073-89c8f241-5acc-4c35-aa5e-fd211cf713fa.png)
